@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">👨‍🚀 Mission Log<br>  - 🎓 Currently surviving **Information Technology**.<br>  - 🛠️ Building projects with **Native PHP** and **Modern CSS**.<br>  - 🧠 Deeply curious about **Artificial Intelligence** and **Cyber Forensics**.<br>  - 🎮 When not coding, I'm probably navigating the "Land of Dawn".</p>
+<p align="center">👨‍🚀 Mission Log<br>  - 🎓 Currently surviving **Information Technology**.<br>  - 🛠️ Building projects with **Native PHP** and **Modern CSS**.<br>  - 🧠 Deeply curious about **Artificial Intelligence** and **Cyber Forensics**.<br>  - 🎮 When not coding, I'm probably navigating the "Land of Dawn".</p>
 
 ###
 

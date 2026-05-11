@@ -11,11 +11,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently studying **Informatics Engineering**.
+- 🎓 I'm currently studying **Information Technology**.
 - 🌱 I'm currently learning **Native PHP, CSS, and modern web logic**.
 - 💡 I love building clean web interfaces and diving into digital systems.
 - 🚀 Always open to collaborating on creative and community-driven projects.
-- 📫 How to reach me: **[Link Instagram/LinkedIn kamu]**
 
 ---
 
@@ -24,7 +23,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Kamu bisa hapus/tambah nama ikon di bawah ini sesuai skill yang kamu pelajari -->
-    <img src="https://skillicons.dev/icons?i=html,css,php,,mysql,git,github,vscode,c++" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,,mysql,git,github,vscode," />
   </a>
 </p>
 

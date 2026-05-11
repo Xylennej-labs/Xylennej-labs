@@ -1,4 +1,4 @@
-<h1 align="center">Yo Haiii... 
+<h1 align="center">Yo Haiii... <br>
   Kenalin, Gw Bukan Siapa Siapa <img src="https://media.giphy.com/media/mGcnDiX73Q2tQfXv1Q/giphy.gif" width="35"></h1>
 
 <h3 align="center">A passionate IT Student and Aspiring Developer from Indonesia 🇮🇩</h3>
